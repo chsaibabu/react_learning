@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import Header from './Header.js';
 import './App.css';
+import Footer from './Footer';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <Header/>
+        <Footer/>
         <a
           className="App-link"
           href="https://reactjs.org"
