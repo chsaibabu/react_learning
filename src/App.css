@@ -36,7 +36,7 @@
     transform: rotate(360deg);
   }
 }
-.header{
+.app-header{
   background-color: rgb(187, 103, 103);
   height: 50px;
   width:auto;
