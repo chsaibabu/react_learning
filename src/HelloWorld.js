@@ -2,12 +2,12 @@ import React from 'react';
 
 const HelloWorld = () => {
 
-  function HelloWorld() {
+  function sayHello() {
     alert('Hello, World!');
   }
   
   return (
-    <button onClick={sayHello}>Click me!button>
+    <button onClick={sayHello}>Click me!button
     </button>
   );
 };
