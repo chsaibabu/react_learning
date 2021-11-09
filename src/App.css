@@ -14,7 +14,6 @@
 }
 
 .App-header {
-  background-color: greenyellow;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -22,6 +21,15 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+.App-button{
+  color: aliceblue;
+  padding: 18px ;
+  cursor: pointer;
+  background: rgb(82, 132, 224);
+  border:none;
+  border-radius:15px;
+  margin:15px 0;
 }
 Header{
   background:#456;

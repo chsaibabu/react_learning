@@ -1,12 +1,9 @@
 import React from "react";
 
-function Header(){
+function Header() {
     return(
-        <div>
-            <h1>Head</h1>
-            
-            <p> this is a react build in the project </p>
-            <button >
+        <div className="App-header">
+            <button className="App-button" >
                 Hello worls
             </button>
         </div>
