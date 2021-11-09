@@ -1,12 +1,13 @@
 import React from "react";
 
-function Header() {
+
+
+
+function Header(){
     return(
-        <div className="App-header">
-            <button className="App-button" >
-                Hello worls
-            </button>
-        </div>
+      <button>
+          clickme
+      </button>
     )
 }
 
