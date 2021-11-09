@@ -6,6 +6,9 @@ function Header(){
             <h1>Head</h1>
             
             <p> this is a react build in the project </p>
+            <button >
+                Hello worls
+            </button>
         </div>
     )
 }
