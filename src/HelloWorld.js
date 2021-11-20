@@ -7,7 +7,7 @@ const HelloWorld = () => {
   }
   
   return (
-    <button onClick={sayHello}>Click me!button
+    <button onClick={sayHello}>Click me
     </button>
   );
 };
