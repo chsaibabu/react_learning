@@ -1,0 +1,28 @@
+.Main{
+    padding: 25px;
+    margin: 25px;
+    height: 550px;
+    width:650px;
+    background: rgb(247, 230, 230);
+    text-decoration: none;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+  
+}
+ul{
+    text-decoration: none;
+    list-style-type: none;
+}
+li{
+    color: rgb(255, 218, 7);
+  font-family: serif;
+    font-weight: bolder;
+    font-size: 20px;
+    padding-top: 10px;
+}
+li:hover{
+    background: rgb(14, 63, 4);
+    margin: 1.2rem;
+    color: azure;
+}
