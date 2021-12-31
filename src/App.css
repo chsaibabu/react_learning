@@ -37,16 +37,7 @@
 .App-link {
   color: #61dafb;
 }
-.login {
-  background: #fff;
-  display: flex;
-  flex-direction: column;
-  padding: 25px;
-  height: auto;
-  width: 300px;
-  justify-content: left;
-  border: 5px solid #e6657a;
-}
+
 h1 {
   font-style: italic;
   color: blue;
@@ -82,7 +73,16 @@ button {
 
 span {
   padding-top: 25px;
-  color: #010621;
+  
   text-transform: uppercase;
   font-size: 15px;
+}
+.App{
+  
+  height:1000px;
+  
+}
+ul{
+  width: 660px;
+  height:900px;
 }

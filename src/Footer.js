@@ -1,9 +1,10 @@
 import React from "react";
+import "./Footer.css";
 
 function Footer(){
     return(
-        <div>
-            <p>This is footer of the react app</p>
+        <div className="Footer">
+            <p>THIS MY NEW YEAR DEM WEB SITE</p>
         </div>
     )
 }

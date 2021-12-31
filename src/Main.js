@@ -1,22 +1,24 @@
 import React from "react";
-
+import "./Main.css";
 
 function Main(){
 
     return(
         
-        <div>
+        <div  className="Main">
             
-            <p>main</p>
+            <p>Hi friends Welcome</p>
             <ul>
                 <li>SAIABAU</li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
+                <li>NAZEERBASHA</li>
+                <li>KIRANKUMAR</li>
+                <li>VINAYKUMAR</li>
+                <li>RAMKUMAR</li>
+                <li>NAGALAKSHMAN</li>
+                <li>PAVANVENKATESH</li>
+                <li>HEMOTH</li>
+                <li>ANJI</li>
+                <li>PRAVEEN</li>
             </ul>
 
             

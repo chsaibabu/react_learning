@@ -8,9 +8,12 @@ import HelloWorld from './HelloWorld';
 function App() {
   return (
     <div className="App"> 
+    <ul>
         <Header/>
         <Main/>
         <Footer/>
+        <HelloWorld/>
+        </ul>
     </div>
   );
 }
